@@ -1,4 +1,9 @@
-#READ ME FILE
+# READ ME FILE
+
+## Application Design
+
+![image](https://github.com/user-attachments/assets/80364532-b958-4894-818f-962feea7ebe1)
+
 
 cURL must be installed in the system before running our application. Below are the steps to do so.
 
